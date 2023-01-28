@@ -28,6 +28,15 @@ header {
     padding: 5px 0px 0px 0px;
 }
 
+header > p {
+    max-width: 500px;
+    margin: auto;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-bottom: 20px;
+    text-indent: 0px;
+}
+
 h1{ 
     font-family: var(--fonte-titulo);
     font-size: 3em;
